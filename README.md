@@ -41,14 +41,3 @@ Python 3.x
 VS Code
 
 Git & GitHub
-
-📂 Folder Structure (Planned)
-python-learning/
-│
-├── 01_basics/
-├── 02_control_statements/
-├── 03_functions/
-├── 04_oops/
-├── 05_file_handling/
-├── 06_projects/
-└── README.md
