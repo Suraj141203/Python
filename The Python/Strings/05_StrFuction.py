@@ -9,7 +9,7 @@ print(text1.upper())  # It converts lowercase letters to uppercase
 name = "   Suraj   "
 print(name.strip())  # It removes extra spaces from beginning and end
 
-text2 = "I love Java"
+text2 = "I love Java Because Java is Easy"
 print(text2.replace("Java", "Python"))  # It replaces a word with another word
 
 text3 = "Python is easy"
