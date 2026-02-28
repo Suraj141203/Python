@@ -7,3 +7,5 @@ print(friends)
 friends.insert(1, "Sonu")
 print(friends) 
 
+
+
